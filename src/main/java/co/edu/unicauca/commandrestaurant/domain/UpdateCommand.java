@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Comando concreto para modificar una comida
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class UpdateCommand extends Command {
 

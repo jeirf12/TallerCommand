@@ -6,7 +6,7 @@ import co.edu.unicauca.commandrestaurant.domain.Food;
 /**
  * Interface que define los servicios de persistencia de comidas
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public interface IFoodRepository {
 

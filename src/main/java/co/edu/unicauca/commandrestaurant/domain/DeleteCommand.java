@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Comando concreto para crear una comida
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class DeleteCommand extends Command {
 

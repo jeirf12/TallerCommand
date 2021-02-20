@@ -4,7 +4,7 @@ package co.edu.unicauca.commandrestaurant.domain;
  * Representa una comida del restaurante de cualquier tipo: Entrada, principio,
  * carne, postre
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class Food {
 

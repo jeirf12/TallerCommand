@@ -8,7 +8,7 @@ import co.edu.unicauca.commandrestaurant.domain.Food;
  * Fachada de los servicios de comida. Es el receptor, al cual se le ejecutan
  * sus operaciones mediante comandos
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class FoodService {
 

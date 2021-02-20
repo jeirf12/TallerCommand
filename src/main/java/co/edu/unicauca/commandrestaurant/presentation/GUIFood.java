@@ -16,7 +16,7 @@ import javax.swing.DefaultComboBoxModel;
 /**
  * Interfaz gráfica de Consultar clientes
  *
- * @author Libardo Pantoja, Daniel Paz
+ * @author Jhonny Rosero, Jhonfer Ruiz
  *
  */
 public class GUIFood extends javax.swing.JFrame {

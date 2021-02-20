@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * Invocador de comandos. Ejecuta y deshace los comandos
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class Invoker {
 

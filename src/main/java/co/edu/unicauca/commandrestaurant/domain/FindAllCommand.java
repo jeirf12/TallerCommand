@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Comando concreto para buscar todas las comidas
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class FindAllCommand extends Command {
 

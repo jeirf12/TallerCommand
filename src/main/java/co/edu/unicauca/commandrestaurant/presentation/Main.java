@@ -8,8 +8,9 @@ import co.edu.unicauca.commandrestaurant.domain.FoodTypeEnum;
 import co.edu.unicauca.commandrestaurant.domain.Invoker;
 
 /**
+ * Ejecutor principal de la app
  *
- * @author libardo
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class Main {
 

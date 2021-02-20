@@ -6,17 +6,12 @@ import co.edu.unicauca.commandrestaurant.domain.FindByIdCommand;
 import co.edu.unicauca.commandrestaurant.domain.Food;
 import co.edu.unicauca.commandrestaurant.domain.FoodTypeEnum;
 import co.edu.unicauca.commandrestaurant.domain.Invoker;
-import co.edu.unicauca.commandrestaurant.domain.UpdateCommand;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author Libardo, Julio
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class CommandTest {
 

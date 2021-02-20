@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Comando concreto para buscar una comida por su id
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class FindByIdCommand extends Command {
 

@@ -4,8 +4,9 @@ import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
 /**
+ * Servicios de mostrar diferentes tipos de mensajes al Usuario
  *
- * @author Libardo, Daniel
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class Messages {
 

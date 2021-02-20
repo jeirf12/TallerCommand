@@ -1,9 +1,5 @@
 package co.unicauca.commandRestaurant.infra;
 
-/**
- *
- * @author libardo
- */
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -12,7 +8,7 @@ import java.util.Properties;
 /**
  * Utilidades varias utilizadas por otras clases
  *
- * @author Libardo, Daniel
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class Utilities {
 

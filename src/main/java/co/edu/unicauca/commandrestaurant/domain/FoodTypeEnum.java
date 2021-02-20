@@ -3,7 +3,7 @@ package co.edu.unicauca.commandrestaurant.domain;
 /**
  * Tipos de comida del restaurante
  *
- * @author libardo
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public enum FoodTypeEnum {
     ENTRADA, PRINCIPIO, CARNE, JUGO, POSTRE;

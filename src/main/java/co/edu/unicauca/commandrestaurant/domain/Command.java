@@ -3,7 +3,7 @@ package co.edu.unicauca.commandrestaurant.domain;
 /**
  * Clase abstracta que representa un Comando cualquieraF
  *
- * @author libardo
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public abstract class Command {
 
